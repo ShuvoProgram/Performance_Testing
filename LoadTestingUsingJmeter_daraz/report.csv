@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695718166133,7834,HTTP Request,200,OK,HundredThread 1-3,text,true,,1144812,118,10,10,https://www.daraz.com.bd/,988,0,899
+1695718166769,7977,HTTP Request,200,OK,HundredThread 1-5,text,true,,1144841,118,9,9,https://www.daraz.com.bd/,357,0,261
+1695718165814,8969,HTTP Request,200,OK,HundredThread 1-1,text,true,,1144827,118,8,8,https://www.daraz.com.bd/,1316,0,1214
+1695718165831,9002,HTTP Request,200,OK,HundredThread 1-2,text,true,,1144859,118,7,7,https://www.daraz.com.bd/,1276,0,1198
+1695718167932,7501,HTTP Request,200,OK,HundredThread 1-9,text,true,,1144828,118,6,6,https://www.daraz.com.bd/,567,0,430
+1695718167340,8400,HTTP Request,200,OK,HundredThread 1-7,text,true,,1144909,118,5,5,https://www.daraz.com.bd/,493,0,385
+1695718166430,9316,HTTP Request,200,OK,HundredThread 1-4,text,true,,1144877,118,4,4,https://www.daraz.com.bd/,698,0,595
+1695718167639,8469,HTTP Request,200,OK,HundredThread 1-8,text,true,,1144837,118,3,3,https://www.daraz.com.bd/,585,0,449
+1695718167041,9175,HTTP Request,200,OK,HundredThread 1-6,text,true,,1144844,118,2,2,https://www.daraz.com.bd/,342,0,241
+1695718168260,8476,HTTP Request,200,OK,HundredThread 1-10,text,true,,1144839,118,1,1,https://www.daraz.com.bd/,924,0,435
